@@ -40,7 +40,7 @@
 
     'author': 'Concept Solutions',
     'website': 'https://www.csloman.com',
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'depends': [
         'product', 'purchase', 'account', 'fleet'
     ],
